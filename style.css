@@ -50,6 +50,8 @@ ul {
 }
 
 .mtavari {
-  height: 300px;
+  height: 210px;
   padding-bottom: 10px;
+  overflow: hidden;
+  padding-bottom: 20px;
 }
