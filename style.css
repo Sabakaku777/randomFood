@@ -1,0 +1,55 @@
+body {
+  color: white;
+
+  background: url("https://raresantorini.com/wp-content/uploads/2018/06/black-table-background-1.jpg");
+  background-size: cover;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.satauri {
+  text-align: center;
+}
+
+.getmeal {
+  padding: 8px 12px;
+  font-size: 20px;
+  border: none;
+  border-radius: 10px;
+  background-color: chartreuse;
+  color: white;
+}
+
+.details {
+  margin-top: 40px;
+  margin-inline: 160px;
+}
+
+.first {
+  display: flex;
+}
+
+.ana {
+  margin-right: 20px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+li {
+  font-size: 20px;
+  margin-inline: 20px;
+}
+
+ul {
+  display: flex;
+}
+
+.mtavari {
+  height: 300px;
+  padding-bottom: 10px;
+}
